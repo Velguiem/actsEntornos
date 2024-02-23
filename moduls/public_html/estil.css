@@ -6,4 +6,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Created on : 15 ene. 2024, 17:19:39
     Author     : Javier
 */
+	
+body{
+    font-family: monospace;
+    font-size: 18px;
+    color: magenta;
+}
 
